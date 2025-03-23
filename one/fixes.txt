@@ -1,1 +1,2 @@
 This is a fix file which will be used to fix bugs.
+One more bug detected and fixed.
